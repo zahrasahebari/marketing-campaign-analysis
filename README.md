@@ -21,3 +21,47 @@ This project analyses customer demographic, purchasing, and behavioural data to 
 - ✅ Marital status was significantly associated with campaign response.
 - ✅ Customer age did not show a statistically significant relationship with campaign response when analysed individually.
 - ✅ The analysis concludes with business recommendations to improve future marketing campaigns.
+
+---
+
+## 🎯 Business Objectives
+
+The project aims to evaluate the effectiveness of a marketing campaign and identify the customer characteristics associated with campaign response.
+
+Specifically, the analysis answers the following business questions:
+
+1. How successful was the marketing campaign?
+2. Is customer income associated with campaign response?
+3. Does customer age influence campaign response?
+4. Does education level influence campaign response?
+5. Does marital status influence campaign response?
+6. What customer characteristics are associated with a higher likelihood of campaign response?
+7. Based on the findings, what recommendations can improve future marketing campaigns?
+
+---
+
+## 📂 Dataset
+
+- **Dataset:** Customer Personality Analysis
+- **Records:** 2,240 customers (2,216 after data cleaning)
+- **Target Variable:** `Response`
+- **Project Type:** Business Analytics
+- **Analysis Language:** Python
+
+The dataset contains customer demographic, purchasing, and behavioural information collected from a marketing campaign. Following data cleaning, records with missing income values were removed to ensure reliable statistical analysis.
+
+---
+
+## ⚙️ Analytical Workflow
+
+The project follows a structured business analytics workflow:
+
+1. Business understanding
+2. Data understanding
+3. Data cleaning
+4. Feature engineering
+5. Exploratory data analysis (EDA)
+6. Statistical hypothesis testing
+7. Business recommendations
+
+The statistical analysis complements the exploratory analysis by validating whether observed relationships between customer characteristics and campaign response are statistically significant.
