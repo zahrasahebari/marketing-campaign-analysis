@@ -65,3 +65,53 @@ The project follows a structured business analytics workflow:
 7. Business recommendations
 
 The statistical analysis complements the exploratory analysis by validating whether observed relationships between customer characteristics and campaign response are statistically significant.
+
+---
+
+## 📈 Project Results
+
+The exploratory and statistical analyses produced the following findings:
+
+| Business Question | Result |
+|-------------------|--------|
+| Campaign effectiveness | The overall campaign response rate was relatively low, indicating opportunities to improve customer targeting. |
+| Income | Higher-income customers were significantly more likely to respond to the campaign. |
+| Age | No statistically significant relationship was found between customer age and campaign response. |
+| Education | Education level was significantly associated with campaign response. |
+| Marital Status | Marital status was significantly associated with campaign response. |
+| Overall Insight | Customer income, education level, and marital status were the strongest characteristics associated with campaign response. |
+
+---
+
+## 💡 Business Recommendations
+
+Based on the findings, the following recommendations are proposed:
+
+- Focus future marketing campaigns on customer segments with higher response potential.
+- Incorporate customer income, education level, and marital status into customer segmentation strategies.
+- Use data-driven customer targeting to improve campaign effectiveness and marketing return on investment (ROI).
+- Continue monitoring campaign performance using statistical validation rather than relying solely on descriptive analysis.
+- Explore interactions between multiple customer characteristics using predictive modelling techniques in future work.
+
+---
+
+## 🛠 Technologies Used
+
+| Category | Tools |
+|----------|------|
+| Programming Language | Python |
+| Data Manipulation | pandas, NumPy |
+| Data Visualisation | Matplotlib |
+| Statistical Analysis | SciPy |
+| Development Environment | Jupyter Notebook |
+
+---
+
+## 📁 Repository Structure
+
+```text
+marketing-campaign-analysis/
+│
+├── README.md
+└── marketing-campaign-analysis-customer-response-ins.ipynb
+```
