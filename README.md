@@ -7,6 +7,21 @@ This project investigates the effectiveness of a marketing campaign by identifyi
 The project follows a complete business analytics workflow, including data understanding, data cleaning, feature engineering, exploratory data analysis, statistical validation, and business recommendations. Rather than relying solely on descriptive analysis, statistical tests are performed to determine whether observed relationships are statistically significant.
 
 ---
+## 📑 Table of Contents
+
+- [📌 Project Overview](#-project-overview)
+- [🎯 Business Objectives](#-business-objectives)
+- [📂 Dataset](#-dataset)
+- [⚙️ Analytical Workflow](#️-analytical-workflow)
+- [📈 Project Results](#-project-results)
+- [💡 Business Recommendations](#-business-recommendations)
+- [🛠 Technologies Used](#-technologies-used)
+- [📁 Repository Structure](#-repository-structure)
+- [▶️ How to Run the Project](#️-how-to-run-the-project)
+- [🚀 Future Improvements](#-future-improvements)
+- [👩‍💻 About the Author](#-about-the-author)
+
+---
 
 ## 📌 Project Overview
 
@@ -153,3 +168,6 @@ I am passionate about applying data analytics to solve business problems and sup
 - 💼 LinkedIn: *https://www.linkedin.com/in/zahra-sahebari/*
 - 📊 Kaggle: *https://www.kaggle.com/zahrasahebari*
 - 💻 GitHub: *https://github.com/zahrasahebari*
+
+📓 Kaggle Notebook:
+https://www.kaggle.com/code/zahrasahebari/marketing-campaign-analysis-customer-response-ins
