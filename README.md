@@ -21,8 +21,6 @@ The project follows a complete business analytics workflow, including data under
 - [🚀 Future Improvements](#-future-improvements)
 - [👩‍💻 About the Author](#-about-the-author)
 
----
-
 ## 📌 Project Overview
 
 Organisations invest substantial resources in marketing campaigns, making it essential to understand which customers are most likely to respond. Identifying these characteristics enables organisations to improve customer targeting, optimise marketing expenditure, and increase return on investment (ROI).
