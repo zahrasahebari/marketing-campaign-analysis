@@ -115,3 +115,41 @@ marketing-campaign-analysis/
 ├── README.md
 └── marketing-campaign-analysis-customer-response-ins.ipynb
 ```
+---
+
+## ▶️ How to Run the Project
+
+1. Clone this repository.
+2. Open the Jupyter Notebook (`marketing-campaign-analysis-customer-response-ins.ipynb`).
+3. Install the required Python libraries.
+4. Run the notebook sequentially to reproduce the complete analysis.
+
+---
+
+## 🚀 Future Improvements
+
+Potential extensions of this project include:
+
+- Building predictive machine learning models to estimate campaign response.
+- Evaluating additional customer behavioural variables.
+- Investigating interactions between multiple customer characteristics.
+- Comparing the performance of different classification algorithms.
+- Developing an interactive dashboard using Power BI or Tableau.
+
+---
+
+## 👩‍💻 About the Author
+
+**Zahra Sahebari**
+
+MSc Business Analytics
+
+I am passionate about applying data analytics to solve business problems and support evidence-based decision-making. My interests include business analytics, statistical analysis, predictive modelling, and business intelligence.
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: *(add your LinkedIn profile URL)*
+- 📊 Kaggle: https://www.kaggle.com/zahrasahebari
+- 💻 GitHub: https://github.com/zahrasahebari
