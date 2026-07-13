@@ -150,6 +150,6 @@ I am passionate about applying data analytics to solve business problems and sup
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: * https://www.linkedin.com/in/zahra-sahebari/ *
-- 📊 Kaggle: * https://www.kaggle.com/zahrasahebari *
-- 💻 GitHub: * https://github.com/zahrasahebari *
+- 💼 LinkedIn: *https://www.linkedin.com/in/zahra-sahebari/*
+- 📊 Kaggle: *https://www.kaggle.com/zahrasahebari*
+- 💻 GitHub: *https://github.com/zahrasahebari*
